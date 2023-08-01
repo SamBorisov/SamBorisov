@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
-<h3 align="center">A passionate blockchain developer from Bulgaria</h3>
+<h3 align="center">A passionate blockchain developer from Bulgaria 🇧🇬 </h3>
 
 - 🔭 I’m currently working on **TokaCity**
 
@@ -9,7 +9,9 @@
 
 - 📫 How to reach me **samuil@encorp.io**
   
-    - 🌳  🪷  🪺   🪷  🪺   🪷  🌳 ○
+    - 🌳  🪷  🪺   🪷  🪺   🪷  🌳
+      
+- ⚡ Fun fact: 🥁🤿🪂🏍⛩🤺🏊‍♂️
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samborisov&show_icons=true&locale=en&layout=compact&theme=dark" alt="samborisov" /></p>
