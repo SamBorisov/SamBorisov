@@ -1,4 +1,4 @@
-<div>
+<div style="display: flex;">
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 <h3 align="center">A passionate blockchain developer from Bulgaria 🇧🇬 </h3>
 
