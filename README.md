@@ -1,8 +1,8 @@
+<h1 align="center">Hi 👋, I'm Samuel <span>🇧🇬</span></h1>
+<h3 align="center">A passionate blockchain developer from Bulgaria</h3>
 <table>
   <tr>
     <td>
-      <h1 align="center">Hi 👋, I'm Samuel <span>🇧🇬</span></h1>
-      <h3 align="center">A passionate blockchain developer from Bulgaria</h3>
       <ul>
         <li>🔭 I’m currently working on <strong>TokaCity</strong></li>
         <li>🌱 I’m currently learning - <strong>Everything I can</strong></li>
