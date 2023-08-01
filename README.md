@@ -9,7 +9,7 @@
         <li>💬 Ask me about <strong>Solidity, Node.js, React</strong></li>
         <li>📫 How to reach me <strong>samuil@encorp.io</strong></li>
         <li>⚡ Fun fact: 🥁🤿🪂🏍⛩🤺🏊‍♂️</li>
-              <p>🌳 🪷 🪺 🪷 🪺 🪷 🌳</p>
+              <p>______🌳 🪷 🪺 🪷 🪺 🪷 🌳______</p>
       </ul>
     </td>
     <td>
