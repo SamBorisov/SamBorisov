@@ -8,11 +8,10 @@
 - 💬 Ask me about **Solidity, Node.js, React**
 
 - 📫 How to reach me **samuil@encorp.io**
-  
-    - 🌳  🪷  🪺   🪷  🪺   🪷  🌳
       
 - ⚡ Fun fact: 🥁🤿🪂🏍⛩🤺🏊‍♂️
-
+  
+  - 🌳  🪷  🪺   🪷  🪺   🪷  🌳
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samborisov&show_icons=true&locale=en&layout=compact&theme=dark" alt="samborisov" /></p>
 
