@@ -1,26 +1,22 @@
 <div style="display: flex;">
-<h1 align="center">Hi 👋, I'm Samuel</h1>
-<h3 align="center">A passionate blockchain developer from Bulgaria 🇧🇬 </h3>
-
-<div>
-- 🔭 I’m currently working on **TokaCity**
-
-- 🌱 I’m currently learning - **Everything I can**
-
-- 💬 Ask me about **Solidity, Node.js, React**
-
-- 📫 How to reach me **samuil@encorp.io**
-      
-- ⚡ Fun fact: 🥁🤿🪂🏍⛩🤺🏊‍♂️
-  
-  - 🌳  🪷  🪺   🪷  🪺   🪷  🌳
+  <div style="flex-basis: 50%; padding: 20px; background-color: #f9f9f9;">
+    <h1 align="center">Hi 👋, I'm Samuel <span>🇧🇬</span></h1>
+    <h3 align="center">A passionate blockchain developer from Bulgaria</h3>
+    <ul>
+      <li>🔭 I’m currently working on <strong>TokaCity</strong></li>
+      <li>🌱 I’m currently learning - <strong>Everything I can</strong></li>
+      <li>💬 Ask me about <strong>Solidity, Node.js, React</strong></li>
+      <li>📫 How to reach me <strong>samuil@encorp.io</strong></li>
+      <li>⚡ Fun fact: 🥁🤿🪂🏍⛩🤺🏊‍♂️</li>
+      <li>🌳 🪷 🪺 🪷 🪺 🪷 🌳</li>
+    </ul>
+  </div>
+  <div style="flex-basis: 50%; padding: 20px; background-color: #f0f0f0;">
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samborisov&show_icons=true&locale=en&layout=compact&theme=dark" alt="samborisov" /></p>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=samborisov&label=Profile%20views&color=0e75b6&style=flat" alt="samborisov" /> </p>
+  </div>
 </div>
-<div>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samborisov&show_icons=true&locale=en&layout=compact&theme=dark" alt="samborisov" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samborisov&label=Profile%20views&color=0e75b6&style=flat" alt="samborisov" /> </p>
-</div>
-</div>
 
 <!--
 **SamBorisov/SamBorisov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
