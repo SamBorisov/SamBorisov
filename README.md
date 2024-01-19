@@ -5,10 +5,10 @@
     <td>
       <ul>
         <li>🔭 I’m currently working on <strong>TokaCity</strong></li>
-        <li>🌱 I’m currently learning - <strong>Everything I can</strong></li>
+        <li>🌱 I’m currently learning - <strong>Too many things</strong></li>
         <li>💬 Ask me about <strong>Solidity, Node.js, React</strong></li>
         <li>📫 How to reach me <strong>samuil@encorp.io</strong></li>
-        <li>⚡ Fun fact: 🥁🤿🪂🏍⛩🤺🏊‍♂️</li>
+        <li>🎡 Hobbies & Interests: 🥁🤿🪂🏍⛩🤺🏊‍♂️</li>
         <br>
               <p>|____🌳 🪷 🪺 🪷 🪺 🪷 🌳____|</p>
       </ul>
