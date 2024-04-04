@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel <span>🇧🇬</span></h1>
-<h3 align="center">A passionate blockchain developer from Bulgaria</h3>
+<h3 align="center">A blockchain developer from Bulgaria</h3>
 <table align="center">
   <tr>
     <td>
