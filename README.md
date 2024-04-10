@@ -4,8 +4,8 @@
   <tr>
     <td>
       <ul>
-        <li>🔭 I’m currently working on <strong>TokaCity</strong></li>
-        <li>🌱 I’m currently learning - <strong>Too many things</strong></li>
+        <li>🔭 I’m currently working on <strong>HydraGon</strong></li>
+        <li>🌱 I’m currently learning - <strong>Everything about blockchain & EVM</strong></li>
         <li>💬 Ask me about <strong>Solidity, Node.js, React</strong></li>
         <li>📫 How to reach me <strong>samuil@encorp.io</strong></li>
         <li>🎡 Hobbies & Interests: 🥁🤿🪂🏍⛩🤺🏊‍♂️</li>
