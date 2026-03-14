@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Samuel <span>🇧🇬</span></h1>
-<h3 align="center">A blockchain developer from Bulgaria</h3>
+<h3 align="center">A full-stack developer from Bulgaria</h3>
 <table align="center">
   <tr>
     <td>
       <ul>
-        <li>🔭 I’m currently working on <strong>HydraGon</strong></li>
-        <li>🌱 I’m currently learning - <strong>Blockchain & EVM</strong></li>
+        <li>🔭 I’m currently working with <strong>PayNavous</strong></li>
+        <li>🌱 I’m currently learning - <strong>AI and DevOps</strong></li>
         <li>💬 Ask me about <strong>Solidity, Node.js, React</strong></li>
         <li>📫 How to reach me <strong>samuil@encorp.io</strong></li>
         <li>🎡 Hobbies & Interests: 🥁🤿🪂🏍⛩🤺🏊‍♂️</li>
