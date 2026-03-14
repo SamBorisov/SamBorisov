@@ -4,7 +4,7 @@
   <tr>
     <td>
       <ul>
-        <li>🔭 I’m currently working with <strong>PayNavous</strong></li>
+        <li>🔭 I’m currently working with <strong>PayNovus</strong></li>
         <li>🌱 I’m currently learning - <strong>AI and DevOps</strong></li>
         <li>💬 Ask me about <strong>Solidity, Node.js, React</strong></li>
         <li>📫 How to reach me <strong>samuil@encorp.io</strong></li>
